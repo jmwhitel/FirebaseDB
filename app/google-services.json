@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858728063913",
+    "firebase_url": "https://fir-dbtesting-5835f.firebaseio.com",
+    "project_id": "fir-dbtesting-5835f",
+    "storage_bucket": "fir-dbtesting-5835f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858728063913:android:deebddd78816ab9e",
+        "android_client_info": {
+          "package_name": "gjod.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858728063913-j2otnfb2u6s958tvo7lf7t5s95sm4mfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHt3O7oAb41O3dyUTE6_lOz8bbhPmch0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
